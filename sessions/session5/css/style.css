@@ -1,0 +1,61 @@
+.lg-explain {
+    border-width: 5px;
+    border-color: #3aa3ee lightgray rgb(103, 165, 206) rgb(94, 94, 155);
+   
+    border-style:solid dashed dotted solid;
+}
+
+
+.First {
+
+    border: 3px solid rgb(195, 205, 226);
+    height: 30px;
+}
+
+.Second {
+    border:3px dotted rgb(58, 86, 146);
+    height: 30px;
+}
+
+.third {
+    border: 3px dashed #3aa3ee;
+    height: 30px;
+}
+.fourth {
+    border: 3px solid #102534;
+    height: 30px;
+}
+
+.top-nav {
+    background-image: linear-gradient(90deg, rgb(235, 82, 82), rgb(234, 249, 208 ));
+  
+   height: 200px;
+ color: white;
+   background-size: cover;
+ 
+
+
+}
+.home { 
+    border: 5px solid #eb86b7;
+    height:auto;
+
+   
+}
+
+.about {
+    border: 5px solid palevioletred;
+   height:auto;
+  
+}
+.contact {
+    border: 5px dashed #f15397;
+    height: auto;
+    
+}
+.img {
+    height: 200px;
+    background-image: url(../images/images.jpg) ;
+    background-size:cover ;
+}
+
